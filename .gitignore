@@ -1,0 +1,17 @@
+# Imagens do jogo e arquivos pessoais nunca entram neste pacote.
+*.iso
+*.ISO
+*.chd
+*.cso
+*.bin
+*.mcd
+*.ps2
+*.p2s
+*.tmp
+*.log
+__pycache__/
+BIOS/
+bios/
+saves/
+memcards/
+savestates/
