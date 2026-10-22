@@ -14,6 +14,16 @@ SHA-256 do pacote ZIP: `618ef628a5e5142168e341c23bb1c7ca27797fdab7f7cc6589fe25b3
 Patch de tradução em português brasileiro para **Warriors Orochi (USA)** de PlayStation 2.
 O pacote contém o patch, um aplicador para Windows e instruções. A ISO do jogo não acompanha o projeto.
 
+## Tradução por IA e créditos
+
+**Esta tradução foi feita com inteligência artificial**, com acompanhamento e testes de Seugildinho.
+
+- **Seugildinho:** responsável pelo projeto, definição das prioridades, testes e feedback.
+- **Codex (OpenAI): contribuinte de IA** na tradução, revisão e adaptação dos textos, desenvolvimento das ferramentas, ajustes de formatação, montagem da ISO e criação do patch.
+- **Argos Translate:** modelo de tradução inglês → português brasileiro usado localmente para gerar a base dos diálogos.
+
+A participação de IA não substitui a revisão humana. Ainda podem existir traduções literais, erros de contexto e trechos que precisem de revisão.
+
 ## Qual versão do jogo usar
 
 Use uma cópia da sua **ISO americana original, sem modificações**:
